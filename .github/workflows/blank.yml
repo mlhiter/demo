@@ -33,6 +33,10 @@ jobs:
         run: |
           npm run build
 
+      # 安装 zip
+      - name: Install zip
+        uses: montudor/action-zip@v1
+
       # 执行 semantic-release 发布包
       - name: Release
         env:
