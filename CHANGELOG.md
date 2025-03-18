@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mlhiter/demo/compare/v1.0.0...v1.1.0) (2025-03-18)
+
+
+### Features
+
+* test feat1 ([5a41552](https://github.com/mlhiter/demo/commit/5a4155213253aad481929686cfe93503a373180f))
+
 # 1.0.0 (2025-03-17)
 
 
